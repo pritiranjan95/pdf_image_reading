@@ -1,0 +1,1 @@
+#This is a project to read the text on images that is inside the pdf. 
